@@ -12,7 +12,8 @@ $result = mysqli_query($mysqli, "SELECT * FROM tb_penjual ORDER BY id_penjual DE
 </head>
  
 <body>
-<a href="add.php">Add New User</a><br/><br/>
+<a href="add.php">Add Penjual</a><br/><br/>
+<a href="../menu/index.php">Add New Menu <Menu></Menu></a><br></br>
  
     <table width='80%' border=1>
  
